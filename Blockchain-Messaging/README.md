@@ -541,5 +541,5 @@ MIT-0 - See LICENSE file for details.
 ## Support
 
 For issues, questions, or contributions:
-- GitHub: [@AroshaWanigasundara]
+- GitHub: [@aroshawanigasundara](https://github.com/AroshaWanigasundara)
 - Email: [aroshawanigasundara12@gmail.com]
