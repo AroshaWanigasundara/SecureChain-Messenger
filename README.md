@@ -309,8 +309,8 @@ This project is licensed under the **Unlicense** - see LICENSE files for details
 
 **Arosha Wanigasundara**
 
-- GitHub: [@arowanas](https://github.com/yourusername)
-- Email: [arosha@example.com](mailto:arosha@example.com)
+- GitHub: [@aroshawanigasundara](https://github.com/AroshaWanigasundara)
+- Email: [aroshawanigasundara12@gmail.com](mailto:aroshawanigasundara12@gmail.com)
 
 ## 🙏 Acknowledgments
 
@@ -318,12 +318,6 @@ This project is licensed under the **Unlicense** - see LICENSE files for details
 - Encryption by [TweetNaCl](https://tweetnacl.js.org/)
 - UI components from [shadcn/ui](https://ui.shadcn.com/)
 - Real-time messaging via [PubNub](https://www.pubnub.com/)
-
-## 🔗 Links
-
-- **Live Demo**: [https://securechain-messenger.example.com](https://securechain-messenger.example.com)
-- **Documentation**: [https://docs.securechain-messenger.example.com](https://docs.securechain-messenger.example.com)
-- **Block Explorer**: [https://explorer.securechain-messenger.example.com](https://explorer.securechain-messenger.example.com)
 
 ---
 
