@@ -541,10 +541,5 @@ MIT-0 - See LICENSE file for details.
 ## Support
 
 For issues, questions, or contributions:
-- GitHub: [Your Repository]
-- Discord: [Your Community]
-- Email: [Your Email]
-
-## Credits
-
-Built with Substrate FRAME v2 by [Your Name/Team]
+- GitHub: [AroshaWanigasundara]
+- Email: [aroshawanigasundara12@gmail.com]
